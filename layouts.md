@@ -76,7 +76,7 @@ php artisan vendor:publish
 ```
 
 ### Step 6: Finalize Installation
-Visit `yourdomain.com/layouts`, select the checkbox to activate the promo package, and then run the following command again to optimize the application:
+Visit `yourdomain.com/layouts`, select the checkbox to activate the layouts package, and then run the following command again to optimize the application:
 
 ```bash
 php artisan optimize
