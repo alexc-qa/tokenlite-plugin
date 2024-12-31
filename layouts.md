@@ -75,7 +75,12 @@ Run the following command to publish vendor files:
 php artisan vendor:publish
 ```
 
-Verify the installation by visiting `yourdomain.com/layouts`.
+### Step 6: Finalize Installation
+Visit `yourdomain.com/layouts`, select the checkbox to activate the promo package, and then run the following command again to optimize the application:
+
+```bash
+php artisan optimize
+```
 
 ---
 
