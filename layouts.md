@@ -50,11 +50,7 @@ Place the package folder at the root of your project.
 Add the following code under the `autoload` section of your `composer.json` file:
 
 ```json
-"autoload": {
-    "psr-4": {
-        "Biz\\Layout\\": "packages/biz/layout/src/"
-    }
-}
+"Biz\\Layout\\": "packages/biz/layout/src/"
 ```
 
 ### Step 3: Update `config/app.php`
