@@ -128,6 +128,12 @@ if ($promo) {
 }
 ```
 
+### Step 9: Finalize Installation
+Visit `yourdomain.com/promo`, select the checkbox to activate the promo package, and then run the following command again to optimize the application:
+
+```bash
+php artisan optimize
+```
 ---
 
 ## Conclusion
