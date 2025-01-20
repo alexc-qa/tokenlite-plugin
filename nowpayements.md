@@ -52,7 +52,7 @@ Run the following command to publish vendor files:
 php artisan vendor:publish
 ```
 ### step 7: Finalize the Installation
-Visit yourdomain.com/nowpayments_package
+Visit yourdomain.com/admin/nowpayments_package
 ---
 
 ## Conclusion
